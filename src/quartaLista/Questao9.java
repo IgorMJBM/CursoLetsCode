@@ -29,7 +29,7 @@ public class Questao9 {
             for (int i = 0; i < numbers.length; i++) {
                 sumOfColumns[j] += numbers[i][j];
             }
-            System.out.printf("The sum of the columns is " + sumOfColumns[j]);
+            System.out.println("The sum of the columns is " + sumOfColumns[j]);
         }
 
 
